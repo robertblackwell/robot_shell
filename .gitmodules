@@ -1,0 +1,9 @@
+[submodule "pico_firmware"]
+	path = pico_firmware
+	url = git@github.com:robertblackwell/pico-bridge-firmware
+[submodule "ros2_ws/src/cpp_serial_bridge"]
+	path = ros2_ws/src/cpp_serial_bridge
+	url = git@github.com:robertblackwell/ros2-serial-bridge
+[submodule "ros2_ws/src/sample_interfaces"]
+	path = ros2_ws/src/sample_interfaces
+	url = git@github.com:robertblackwell/ros2-bridge-msgs
